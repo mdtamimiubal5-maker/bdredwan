@@ -48,8 +48,8 @@ const Hero: React.FC = () => {
         <div className="absolute -inset-2 bg-gradient-to-r from-yellow-400 to-orange-600 rounded-full blur-md opacity-30 group-hover:opacity-60 transition duration-1000"></div>
         <div className="relative w-56 h-56 md:w-72 md:h-72 rounded-full overflow-hidden border-4 border-[#0a0a0a] shadow-2xl bg-[#111]">
           <img 
-            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr5E3Opd8Ia9Zm6T-3z7VBAeS-BInMVkxkrTtXvB1fY5cmI7oxlmlc8yWf-G2Mnfp91RPB7GHeOiPmn_SVQxypqKPbdZbs1RPwkQAoSAD7OMk308Q0gqBTnD7aZNKlwuvzk2EPojvCWFvs-yZ5Ug77PHGASJloTJN7zmmdR3lY2OlYfwJYoGg8yQ5gJuc/w275-h318/photo_2025-10-27_00-48-57.jpg" 
-            alt="Sujon Ahmed" 
+            src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRW0D-M2_Kz9zAaxSKD9FRTIHGUwo0X3KauXlwqBsPDNvQ1j2C7Ny5cc9Z36BGLZzrBToyv__gs0q4c_L6u_SM0B-shyphenhyphenzjt8Y2KkoNT0tSkfeXhQBIJkRfqHxMAWJqv0v5Tbp8xjRQlZxoivPpVEpVTq0RefBszLkNTVWOUuneNAO_E1o_fnAr7E4bz1yo/s320/WhatsApp%20Image%202026-04-19%20at%209.59.36%20PM.jpeg" 
+            alt="Bd Radwan dm" 
             className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
           />
         </div>
@@ -65,7 +65,7 @@ const Hero: React.FC = () => {
         </div>
         
         <h1 className="text-4xl md:text-7xl font-extrabold mb-8 leading-[1.1] tracking-tight text-white">
-            Hi, <span className="text-gold-gradient italic font-serif">I'm Sujon Ahmed</span>
+            Hi, <span className="text-gold-gradient italic font-serif">I'm Bd Radwan Dm</span>
           <br className="hidden md:block" /> A professional digital marketer
         </h1>
 
