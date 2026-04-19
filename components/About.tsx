@@ -48,7 +48,7 @@ const About: React.FC = () => {
                 About <span className="underline decoration-yellow-500 decoration-2 underline-offset-[12px]">Me!</span>
               </h3>
               <p className="text-gray-400 text-lg leading-relaxed mb-10 font-light text-justify">
-                 <span className="text-white font-medium"></span> I’m Sujon Ahmed, a professional digital marketer with a wealth of experience in SEO technical skills, social media management, and Google Ads campaigns. I specialize in helping businesses like yours attract more customers, increase visibility, and achieve measurable growth through strategic, data-driven marketing.
+                 <span className="text-white font-medium"></span> I’m Bd Radwan Dm, a professional digital marketer with a wealth of experience in SEO technical skills, social media management, and Google Ads campaigns. I specialize in helping businesses like yours attract more customers, increase visibility, and achieve measurable growth through strategic, data-driven marketing.
               </p>
             </div>
 
