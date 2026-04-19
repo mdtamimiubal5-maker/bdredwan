@@ -71,8 +71,8 @@ const Navbar: React.FC = () => {
             <div className="pt-10 space-y-6 border-t border-white/10">
               <div>
                 <h4 className="text-[10px] font-black text-yellow-500 uppercase tracking-[0.3em] mb-2">Contact Info</h4>
-                <p className="text-gray-400 text-sm">📞 +8801995620916</p>
-                <p className="text-gray-400 text-sm">✉️ bdsujonndm@gmail.com</p>
+                <p className="text-gray-400 text-sm">📞 +8801581762050</p>
+                <p className="text-gray-400 text-sm">✉️ mdredwanhassan2025@gmail.com</p>
               </div>
               <div>
                 <h4 className="text-[10px] font-black text-yellow-500 uppercase tracking-[0.3em] mb-2">Location</h4>
