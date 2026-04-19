@@ -38,8 +38,8 @@ const Contact: React.FC = () => {
       <div className="grid md:grid-cols-3 gap-10 mb-20">
         {[
           { icon: '📍', title: 'Location', value: 'Rangpur, Bangladesh' },
-          { icon: '📱', title: 'WhatsApp', value: '+880 1995620916' },
-          { icon: '📧', title: 'Email', value: 'bdsujonndm@gmail.com' }
+          { icon: '📱', title: 'WhatsApp', value: '+8801581762050' },
+          { icon: '📧', title: 'Email', value: 'mdredwanhassan2025@gmail.com' }
         ].map((item, i) => (
           <div key={i} className="glass p-8 rounded-3xl text-center neon-border group">
             <div className="text-3xl mb-4 group-hover:scale-110 transition-transform inline-block">{item.icon}</div>
