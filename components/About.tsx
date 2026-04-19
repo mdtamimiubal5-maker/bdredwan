@@ -2,10 +2,10 @@ import React from 'react';
 
 const About: React.FC = () => {
   const details = [
-    { label: 'Full Name', value: 'SUJON AHMED' },
+    { label: 'Full Name', value: 'BD RADWAN' },
     { label: 'City', value: 'Rangpur, Bangladesh' },
-    { label: 'Age', value: '21 Years Old' },
-    { label: 'Email', value: 'bdsujonndm@gmail.com' },
+    { label: 'Age', value: '20 Years Old' },
+    { label: 'Email', value: 'mdredwanhassan2025@gmail.com' },
     { label: 'Nationality', value: 'Bangladeshi' },
     { label: 'Specialization', value: 'YouTube Promotion & SEO Expert' },
   ];
@@ -23,8 +23,8 @@ const About: React.FC = () => {
             <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-white/5 bg-[#111]">
               <img 
                 // Notun Google Content Link Add Kora Hoyeche
-                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi25LTz1sL9E8Q3K7UnFAqp9qiGoT1gnO6K4dZTkhyJJtmcGG2dbavHzvtMge6f2cuj0D93F5_SZ3KV3XOthi3591vT89nJO5jAzTN_2I4cXdhIGTzy7bt_v-0Z75rgDiYTm0RpkLJw74d-jviHjkWra2ig2QXX8q248q5njt0OD8AUMQi1R2AT7jsrD3M/s1600/Screenshot_10.png" 
-                alt="Sujon Working" 
+                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiixwDrdB8qxpDyEtZOZXAMoWFJfjORKZDQJI2ayEaLSKWw1rQVFd7giiAXzRU826UEN62Alr3pRdy4RLa3fJDHeXf4LUSzdX_3U6e9_-DevPwQZL34SnfGkYNHvsbugcUFSx2vdYgBevEcbNe_F0KjbncTVFuPyZCQBec-3L72xcM0jm_BPvVS-gURZuDx/s2368/1764611607146.jpg" 
+                alt="Bd Radwan" 
                 className="w-full h-auto grayscale hover:grayscale-0 transition-all duration-700 scale-105 group-hover:scale-100 object-cover"
                 onError={(e) => {
                     // Jodi kono karone image load na hoy, tar jonno fallback
