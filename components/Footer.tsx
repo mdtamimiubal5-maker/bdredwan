@@ -3,11 +3,11 @@ import React from 'react';
 const Footer: React.FC = () => {
   // Social link gulo ekhane update korte parbe
   const socials = [
-    { name: 'Facebook', icon: 'fab fa-facebook-f', href: 'https://www.facebook.com/bdsujondm1' },
-    { name: 'Instagram', icon: 'fab fa-instagram', href: 'https://instagram.com/bdsujondm' },
-    { name: 'LinkedIn', icon: 'fab fa-linkedin-in', href: 'https://www.linkedin.com/in/bdsujondm1' },
-    { name: 'Twitter', icon: 'fab fa-x-twitter', href: 'https://twitter.com/bdsujondm' },
-    { name: 'Pinterest', icon: 'fab fa-pinterest', href: 'https://www.pinterest.com/bdsujondm' },
+    { name: 'Facebook', icon: 'fab fa-facebook-f', href: 'https://www.facebook.com/profile.php?id=61586782145260' },
+    { name: 'Instagram', icon: 'fab fa-instagram', href: 'https://www.instagram.com/bd_radwan/' },
+    { name: 'LinkedIn', icon: 'fab fa-linkedin-in', href: 'https://www.linkedin.com/in/bd-radwan-7b7084391?//' },
+    { name: 'Twitter', icon: 'fab fa-x-twitter', href: 'https://x.com/MdRedwan2050' },
+    { name: 'Pinterest', icon: 'fab fa-pinterest', href: 'https://www.pinterest.com/bdradwan/' },
    
   ];
 
@@ -57,7 +57,7 @@ const Footer: React.FC = () => {
               <h3 className="text-xl font-bold mb-6">Drop me a line</h3>
               <div className="flex items-center gap-4 text-gray-400 text-lg group">
                 <i className="fas fa-envelope text-purple-600"></i>
-                <a href="mailto:bdsujonndm@gmail.com" className="hover:text-white transition-colors">bdsujonndm@gmail.com</a>
+                <a href="mailto:mdredwanhassan2025@gmail.com" className="hover:text-white transition-colors">mdredwanhassan2025@gmail.com</a>
               </div>
             </div>
 
@@ -65,7 +65,7 @@ const Footer: React.FC = () => {
               <h3 className="text-xl font-bold mb-6">Direct Message Me</h3>
               <div className="flex items-center gap-4 text-gray-400 text-lg group">
                 <i className="fab fa-whatsapp text-purple-600 text-2xl"></i>
-                <a href="https://wa.me/8801995620916" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">+8801995620916</a>
+                <a href="https://wa.me/8801581762050" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">+8801581762050</a>
               </div>
             </div>
 
