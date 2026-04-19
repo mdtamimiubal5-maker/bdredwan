@@ -30,7 +30,7 @@ const Navbar: React.FC = () => {
         
         {/* Logo - z-index barano hoyeche */}
         <a href="#home" className="relative z-[10001] text-xl font-bold tracking-tighter text-yellow-500">
-          SUJON AHMED<span className="text-white"></span>
+          BD RADWAN DM<span className="text-white"></span>
         </a>
 
         {/* Desktop Links */}
